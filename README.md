@@ -32,4 +32,6 @@ Just include `jquery.text.fadeto.js` as a script tag on the page. Bonus points f
 
 ## About
 
-jquery.text.fadeto.js was originally developed for [LayerVault](http://layervault.com) by [Kelly Sutton](http://kellysutton.com). You can see more projects from LayerVault in the [LayerVault Cosmos](http://cosmos.layervault.com).
+jquery.text.fadeto.js was originally developed for [LayerVault](http://layervault.com) by [Kelly Sutton](http://kellysutton.com).
+
+You can see more projects from LayerVault in the [LayerVault Cosmos](http://cosmos.layervault.com).
