@@ -11,13 +11,18 @@ You can also give it a few options:
 ```javascript
 $('h2').fadeTo("New Subheading", {
   fadeInLength: 1000,
-  fadeOutLength: 2000
+  fadeOutLength: 2000,
+  fadeInEasing: 'ease-in',
+  fadeOutEasing: 'ease-out'
 });
 ```
 
 Or event a callback:
 
 ```javascript
+$('h2').fadeTo("New Subheading", function () {
+  alert("We're done!");
+});
 
 ```
 
