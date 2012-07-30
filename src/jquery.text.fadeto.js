@@ -95,7 +95,7 @@
         $e.removeClass(classes.fadeIn);
         classes.$style.remove();
 
-        if (typeof options.callback !== "undefined") {
+        if (typeof options.callback === "function") {
           options.callback();
         }
       }, options.fadeInLength);
